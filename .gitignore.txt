@@ -1,0 +1,12 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore database and JSON files
+*.db
+*.json
+*.csv
+
+# Ignore node_modules (if using JavaScript)
+node_modules/
+package-lock.json
+package.json
